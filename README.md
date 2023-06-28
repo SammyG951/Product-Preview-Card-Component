@@ -9,7 +9,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -27,6 +26,7 @@ Users should be able to:
 ### Screenshot
 
 ![Screenshot](/images/Finished-product-screenshot.png)
+![Screenshot](/images/Product-preview-card-component-mobile.png)
 
 ## My process
 
@@ -34,10 +34,6 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-
-### Continued development
-
-I plan to update this project to be responsive with mobile. 
 
 ### Useful resources
 
