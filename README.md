@@ -41,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Github - [@SammyG951](https://github.com/)
+- Github - [@SammyG951](https://github.com/SammyG951)
 - Frontend Mentor - [@SammyG951](https://www.frontendmentor.io/profile/SammyG951)
